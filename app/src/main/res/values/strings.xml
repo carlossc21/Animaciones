@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cuenta las Pelotas</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="easy">Easy</string>
+</resources>
